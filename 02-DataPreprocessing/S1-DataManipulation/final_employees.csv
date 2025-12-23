@@ -1,0 +1,7 @@
+Name,Department,Salary,Age,Joining_Date,Bonus,Tax,Net_Salary,Salary_Category
+Ahmed,IT,5000.0,28.0,2020-03-15,1000.0,500.0,5500.0,Medium
+Sara,HR,4500.0,35.0,2019-07-20,900.0,450.0,4950.0,Medium
+,IT,6000.0,24.0,2022-01-10,1200.0,600.0,6600.0,High
+Mohamed,Finance,5000.0,45.0,2018-05-25,1000.0,500.0,5500.0,Medium
+Fatima,Unknown,4000.0,30.0,2021-08-30,800.0,400.0,4400.0,Low
+Ali,IT,5500.0,32.4,2020-11-15,1100.0,550.0,6050.0,Medium
