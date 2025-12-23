@@ -50,14 +50,3 @@ The goal is the "Goldilocks Zone."
 *   **Description:** Model memorizes noise instead of patterns.
 *   **Symptoms:** Low Training Error, High Test Error.
 *   **Fix:** Add more data, Feature selection, **Regularization**.
-
-## 6. Regularization
-Modifying the Cost Function to penalize complexity.
-$$Cost = MSE + \text{Penalty}$$
-
-*   **Lasso (L1):** Adds Absolute value of weights ($|w|$).
-    *   *Effect:* Can drive weights to **Zero**.
-    *   *Use:* Feature Selection (deletes useless features).
-*   **Ridge (L2):** Adds Squared value of weights ($w^2$).
-    *   *Effect:* Shrinks weights to be small, but not zero.
-    *   *Use:* Prevents overfitting while keeping all features.
